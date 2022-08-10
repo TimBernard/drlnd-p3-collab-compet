@@ -20,9 +20,8 @@
     1. Clone this repository
     2. To get the python/conda environment setup, follow these instructions: https://github.com/udacity/deep-reinforcement-learning#dependencies
     3. Make sure you have jupyter properly installed, and you may have to get an archived version of pytorch 
-    4. Download the environment for Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one\_agent/Reacher\_Linux.zip 
-    5. In the repository directoy root `mv <path/to/Reacher_Linux.zip\> .`
+    4. Download the environment for Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis\_Linux.zip 
+    5. In the repository directoy root `mv <path/to/Tennis_Linux.zip\> .`
     6. Then run `conda activate drlnd` 
-    7. In your local directory, to see the trained agent in action: `python main.py "./Reacher\_Linux/Reacher.x86\_64"` 
+    7. In your local directory, to see the trained agent in action: `python main.py "./Tennis\_Linux/Tennis.x86\_64"` 
     9. To train the agent yourself, use the ipynb notebook and use the Udacity Project Workspace as stated above so that you can take advantage of the GPU, hit "run all cells" 
-
