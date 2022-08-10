@@ -1,4 +1,4 @@
-# Udacity Deep Reinforcement Learning: Project 2, Continuous Control  
+# Udacity Deep Reinforcement Learning: Project 3, Collaboration and Competition 
 
 ## Environment 
 * Tennis Environment: There are two agents which control rackets to bounce a ball over a net 
@@ -21,7 +21,7 @@
     2. To get the python/conda environment setup, follow these instructions: https://github.com/udacity/deep-reinforcement-learning#dependencies
     3. Make sure you have jupyter properly installed, and you may have to get an archived version of pytorch 
     4. Download the environment for Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip 
-    5. In the repository directoy root `mv <path/to/Tennis_Linux.zip\> .`
+    5. In the repository directoy root `mv <path/to/Tennis_Linux.zip> .`
     6. Then run `conda activate drlnd` 
     7. In your local directory, to see the trained agent in action: `python main.py "./Tennis_Linux/Tennis.x86_64"` 
     9. To train the agent yourself, use the ipynb notebook and use the Udacity Project Workspace as stated above so that you can take advantage of the GPU, hit "run all cells" 
